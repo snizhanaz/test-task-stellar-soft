@@ -1,6 +1,5 @@
 package steps;
 
-import com.codeborne.selenide.SelenideElement;
 import consts.Product;
 import io.qameta.allure.Step;
 import pages.MainPage;
